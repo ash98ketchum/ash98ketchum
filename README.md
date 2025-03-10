@@ -21,7 +21,7 @@
 <a href="https://kaggle.com/ash98ketchum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ash98ketchum_" height="30" width="40" /></a>
 <a href="https://instagram.com/anirudhhhh70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anirudhhhh70" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anirudhc69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anirudhc69" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ash98ketchum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ash98ketchum_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ash98ketchum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ash98ketchum_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
